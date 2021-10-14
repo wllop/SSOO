@@ -1,0 +1,1 @@
+Tanto el fichero productos.txt como personas.txt han sido obtenidos desde el repo: https://github.com/IIC2233-2016-1/syllabus.git
