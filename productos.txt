@@ -1,27 +1,27 @@
-Producto-Codigo-Precio
-Leche-84701-650
-Tomate-84702-200
-Pan-84703-190
-Queso-84704-700
-Detergente-84705-900
-Pasta dental-84706-500
-Escoba-84707-990
-Jugo-84708-650
-Bebida-84709-1000
-Alfajor-84710-300
-Fideo-84711-600
-Arroz-84712-700
-Carne-84713-3000
-Caja de huevos-84714-1500
-Salsa de soja-84715-1200
-Cepillo de dientes-84716-600
-Vaso-84717-500
-Plato-84718-800
-Lavaloza-84719-1100
-Galleta-84720-400
-Jamon-84721-900
-Manjar-84722-750
-Leche condensada-84723-690
-Papas fritas-84724-400
-Cereal-84725-1000
-Balon deportivo-84726-4000
+Producto-Codigo-Precio-tipo
+Leche-84701-650-1
+Tomate-84702-200-2
+Pan-84703-190-3
+Queso-84704-700-4
+Detergente-84705-900-5
+Pasta dental-84706-500-5
+Escoba-84707-990-5
+Jugo-84708-650-1
+Bebida-84709-1000-1
+Alfajor-84710-300-4
+Fideo-84711-600-4
+Arroz-84712-700-4
+Carne-84713-3000-4
+Caja de huevos-84714-1500-4
+Salsa de soja-84715-1200-2
+Cepillo de dientes-84716-600-5
+Vaso-84717-500-5
+Plato-84718-800-5
+Lavaloza-84719-1100-5
+Galleta-84720-400-3
+Jamon-84721-900-3
+Manjar-84722-750-2
+Leche condensada-84723-690-1
+Papas fritas-84724-400-3
+Cereal-84725-1000-3
+Balon deportivo-84726-4000-5
