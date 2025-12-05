@@ -1,0 +1,7 @@
+1:Carlos:Torres:7:1VG
+2:Pepe:Tur:4:1VG
+3:Juan:Mari:7:2VG
+4:Mario:Garcia:8:2VG
+5:Luis:Vives:5:3VG
+6:Victor:Soto:10:3VG
+7:Pepe:Gutierrez:6:1VG

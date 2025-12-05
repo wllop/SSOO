@@ -1,0 +1,45 @@
+LIM001-Detergente líquido para ropa 3L-9-Limpieza
+LIM002-Suavizante de ropa 2L-6-Limpieza
+LIM003-Limpiador multiusos 1L-3-Limpieza
+LIM004-Lejía concentrada 1L-2-Limpieza
+LIM005-Desinfectante de superficies 750ml-4-Limpieza
+LIM006-Limpiacristales con pulverizador-3-Limpieza
+LIM007-Estropajo fibra verde pack 3-2-Limpieza
+LIM008-Bayeta de microfibra pack 4-3-Limpieza
+LIM009-Desengrasante cocina 750ml-3-Limpieza
+LIM010-Limpiador WC gel 750ml-2-Limpieza
+BOD001-Vino tinto crianza 750ml-7-Bodega
+BOD002-Vino blanco joven 750ml-5-Bodega
+BOD003-Cerveza lager lata 33cl pack 6-4-Bodega
+BOD004-Cerveza especial botella 33cl pack 6-5-Bodega
+BOD005-Sidra natural 750ml-3-Bodega
+BOD006-Vermú rojo 1L-8-Bodega
+BOD007-Ginebra premium 70cl-19-Bodega
+BOD008-Ron añejo 70cl-300-Bodega
+BOD009-Whisky blended 70cl-15-Bodega
+BOD010-Vino espumoso brut 750ml-8-Bodega
+CON001-Leche entera brick 1L-1-Consumo
+CON002-Leche semidesnatada brick 1L-1-Consumo
+CON003-Azúcar blanco 1kg-1-Consumo
+CON004-Arroz redondo 1kg-1-Consumo
+CON005-Pasta macarrón 1kg-1-Consumo
+CON006-Aceite de oliva suave 1L-6-Consumo
+CON007-Aceite de girasol 1L-3-Consumo
+CON008-Galletas maría paquete 800g-300-Consumo
+CON009-Café molido 250g-300-Consumo
+CON010-Cacao soluble bote 400g-4-Consumo
+CON011-Atún en aceite pack 3 latas-3-Consumo
+CON012-Tomate frito brick 400g-300-Consumo
+CON013-Legumbres cocidas bote 400g-1-Consumo
+CON014-Agua mineral botella 1.5L-1-Consumo
+CON015-Refresco cola 2L-2-Consumo
+HIG001-Papel higiénico pack 12 rollos-5-Higiene Personal
+HIG002-Gel de ducha 750ml-3-Higiene Personal
+HIG003-Champú uso frecuente 400ml-300-Higiene Personal
+HIG004-Desodorante spray 200ml-3-Higiene Personal
+HIG005-Pasta de dientes 75ml-2-Higiene Personal
+HIG006-Cepillo de dientes suave-2-Higiene Personal
+HIG007-Toallitas húmedas pack 60-2-Higiene Personal
+HIG008-Mascarilla capilar 300ml-5-Higiene Personal
+HIG009-Jabón de manos líquido 500ml-2-Higiene Personal
+HIG010-Compresas paquete 20 uds-3-Higiene Personal
